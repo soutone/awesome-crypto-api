@@ -17,7 +17,7 @@ Cryptocurrency general data
 
 `CoinGecko <https://www.coingecko.com/en/api>`_ Advertises itself as "The world's most comprehensive cryptocurrency data API."
 
-`CoinPulse <https://coinpulse.dev>`_ Simple REST API for crypto portfolio tracking with real-time prices, P/L calculations, and price alerts. Python SDK available.
+`CoinPulse <https://coinpulse.fly.dev>`_ Simple REST API for crypto portfolio tracking with real-time prices, P/L calculations, and price alerts. Python SDK available.
 
 `Cryptonator <https://www.cryptonator.com/api>`_ Exchange rates API.
 
